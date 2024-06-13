@@ -1,4 +1,4 @@
-# Simple-RSA
+# Prime-Number-RSA
 # Shitai (Stanley) Zhao
 
 Prime-number theory based RSA encryption algorithm
